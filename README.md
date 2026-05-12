@@ -16,14 +16,14 @@ This model was trained on a subset of the **xView2 Challenge Dataset**.
 * *Note: The dataset is not included in this repository due to size constraints. It can be downloaded directly from Kaggle.*
 
 ## 👁️ Visual Predictions
-Below are examples of the model's predictions on unseen validation data after 30 epochs of training.
+Below are examples of the model's predictions on unseen validation data after 500 epochs of training.
 
 
 ![Prediction 1](prediction_result_1.png)
 ![Prediction 2](prediction_result_2.png)
 ![Prediction 3](prediction_result_3.png)
 ![Prediction 4](prediction_result_4.png)
-![Prediction 5](prediction_result_4.png)
+![Prediction 5](prediction_result_5.png)
 
 
 
