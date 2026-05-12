@@ -21,8 +21,10 @@ Below are examples of the model's predictions on unseen validation data after 30
 
 ![Prediction 1](prediction_result_1.png)
 ![Prediction 2](prediction_result_2.png)
-![Prediction 2](prediction_result_3.png)
-![Prediction 2](prediction_result_4.png)
+![Prediction 3](prediction_result_3.png)
+![Prediction 4](prediction_result_4.png)
+![Prediction 5](prediction_result_4.png)
+
 
 
 ## 🚀 How to Run
